@@ -1,0 +1,24 @@
+
+button {
+    background-color: #fff;
+    border: 2px solid black;
+    font-weight: bold;
+    font-size: 30px;
+    min-width: 50px;
+    min-height: 50px;
+    cursor: pointer;
+    outline: none;
+    margin: 5px;
+}
+button:hover{
+    background-color: rgb(199, 199, 199, 0.5);
+    border: 2px solid black;
+}
+div{
+    border: 1px solid black;
+    margin: 20px;
+
+}
+h1, p{
+    margin: 10px;
+}
